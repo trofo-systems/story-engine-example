@@ -1,0 +1,22 @@
+{
+  "name": "@trofo/story-engine-example",
+  "version": "1.0.0",
+  "description": "A simple example project for story-engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trofo-systems/story-engine-example.git"
+  },
+  "keywords": [
+    "story-engine"
+  ],
+  "author": "Andre L Rosot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trofo-systems/story-engine-example/issues"
+  },
+  "homepage": "https://github.com/trofo-systems/story-engine-example#readme"
+}
