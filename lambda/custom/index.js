@@ -1,0 +1,1 @@
+exports.handler = require('story-engine')([require('./walk-on-the-beach-story')]).lambda();

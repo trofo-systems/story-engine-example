@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/trofo-systems/story-engine-example/issues"
   },
-  "homepage": "https://github.com/trofo-systems/story-engine-example#readme"
+  "homepage": "https://github.com/trofo-systems/story-engine-example#readme",
+  "dependencies": {
+    "story-engine": "^0.5.4"
+  }
 }
