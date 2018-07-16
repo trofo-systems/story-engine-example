@@ -15,6 +15,32 @@
         {
           "name": "AMAZON.StopIntent",
           "samples": []
+        },
+        {
+          "name": "GoBySeaWalkIntent",
+          "samples": [
+            "sea walk"
+          ]
+        },
+        {
+          "name": "GoToRiverIntent",
+          "samples": [
+            "river",
+            "go to the river"
+          ]
+        },
+        {
+          "name": "GoToBeachIntent",
+          "samples": [
+            "beach",
+            "go to the beach"
+          ]
+        },
+        {
+          "name": "WaitIntent",
+          "samples": [
+            "wait"
+          ]
         }
       ]
     }

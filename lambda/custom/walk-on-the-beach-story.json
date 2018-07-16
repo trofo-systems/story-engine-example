@@ -7,7 +7,7 @@
       "actions": {
         "GoToBeachIntent": "beach",
         "GoToRiverIntent": "river",
-        "Wait": "wait",
+        "WaitIntent": "wait",
         "GoBySeaWalkIntent": "seawalk"
       },
       "start": true
