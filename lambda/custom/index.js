@@ -1,1 +1,3 @@
-exports.handler = require('story-engine')([require('./walk-on-the-beach-story')]).lambda();
+exports.handler = require('story-engine')([
+    "walk-on-the-beach-story.smd"
+]).lambda();

@@ -5,41 +5,29 @@
       "types": [],
       "intents": [
         {
-          "name": "AMAZON.CancelIntent",
-          "samples": []
+          "name": "SE_bbfdaffcbeca",
+          "samples": [
+            "wait"
+          ]
         },
         {
-          "name": "AMAZON.HelpIntent",
-          "samples": []
-        },
-        {
-          "name": "AMAZON.StopIntent",
-          "samples": []
-        },
-        {
-          "name": "GoBySeaWalkIntent",
+          "name": "SE_acdfdedacc",
           "samples": [
             "sea walk"
           ]
         },
         {
-          "name": "GoToRiverIntent",
+          "name": "SE_ddcdfdbeeaeebeb",
           "samples": [
-            "river",
-            "go to the river"
+            "go to the river",
+            "river"
           ]
         },
         {
-          "name": "GoToBeachIntent",
+          "name": "SE_daadccfabdfaff",
           "samples": [
-            "beach",
-            "go to the beach"
-          ]
-        },
-        {
-          "name": "WaitIntent",
-          "samples": [
-            "wait"
+            "go to the beach",
+            "beach"
           ]
         }
       ]
